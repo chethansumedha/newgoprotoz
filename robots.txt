@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /demos/
+Sitemap: https://www.goprotoz.com/sitemap.xml

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="768px" viewBox="0 0 1440 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 53</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="64.6498546%" y2="94.3594314%" id="linearGradient-1">
+            <stop stop-color="#4894F4" offset="0%"></stop>
+            <stop stop-color="#23449C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="132.930329%" id="linearGradient-2">
+            <stop stop-color="#4894F4" offset="0%"></stop>
+            <stop stop-color="#23449C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.2346016%" y1="42.6337301%" x2="219.781684%" y2="57.9366664%" id="linearGradient-3">
+            <stop stop-color="#23449C" offset="0%"></stop>
+            <stop stop-color="#01B8EF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ad-Homepage">
+            <g id="Group-53" transform="translate(-415.176011, -802.176011)">
+                <rect id="Rectangle" fill="#23449C" x="415.176011" y="802.176011" width="1440" height="768"></rect>
+                <path d="M235,64 L785,64 L785,889 C785,926.003078 755.003078,956 718,956 L335,956 C279.771525,956 235,911.228475 235,856 L235,64 L235,64 Z" id="Rectangle" fill="url(#linearGradient-1)" opacity="0.200000003" transform="translate(510.000000, 510.000000) rotate(-45.000000) translate(-510.000000, -510.000000) "></path>
+                <rect id="Rectangle" fill="url(#linearGradient-2)" opacity="0.5" transform="translate(403.200397, 1083.200397) rotate(-45.000000) translate(-403.200397, -1083.200397) " x="345.200397" y="1025.2004" width="116" height="116" rx="29"></rect>
+                <path d="M1856.17601,934.176011 C1520.87114,988.270832 1215.0872,1120.91824 938.824193,1332.11823 C724.244641,1496.16191 621.123877,1564.81595 652.795867,1569.50242 C658.865527,1570.40054 682.033432,1570.40054 722.299581,1569.50242 L1856.17601,1569.50242 L1856.17601,934.176011 Z" id="Path-4" fill="url(#linearGradient-3)" opacity="0.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

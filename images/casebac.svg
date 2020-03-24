@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="874px" viewBox="0 0 1440 874" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>2051CFDD-6162-4BD5-97F9-C823FF987F4B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#23449C" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.114606585">
+        <g id="Ad-Homepage" transform="translate(0.000000, -1326.000000)" fill="url(#linearGradient-1)">
+            <path d="M0,1442.67777 C320,1364.89259 560,1326 720,1326 C880,1326 1120,1364.89259 1440,1442.67777 L1440,2200 L0,2200 L0,1442.67777 Z" id="Rectangle" transform="translate(720.000000, 1763.000000) scale(1, -1) translate(-720.000000, -1763.000000) "></path>
+        </g>
+    </g>
+</svg>
